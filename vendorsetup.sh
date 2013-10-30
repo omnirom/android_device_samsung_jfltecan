@@ -1,2 +1,2 @@
-add_lunch_combo cm_jfltecan-eng
-
+add_lunch_combo omni_jfltecan-userdebug
+add_lunch_combo full_jfltecan-userdebug
