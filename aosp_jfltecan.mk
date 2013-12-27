@@ -13,6 +13,6 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 #
-$(call inherit-product, device/samsung/jflteatt/omni_jflteatt.mk)
+$(call inherit-product, device/samsung/jfltecan/omni_jfltecan.mk)
 
 PRODUCT_NAME := aosp_jfltecan
